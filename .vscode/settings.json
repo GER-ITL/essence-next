@@ -40,7 +40,7 @@
 	// "editor.scrollbar.vertical": "hidden",
 	// "window.density.editorTabHeight": "compact",
 	"workbench.activityBar.location": "top",
-	"workbench.colorTheme": "Bearded Theme HC Minuit",
+	"workbench.colorTheme": "Bearded Theme HC Wonderland Wood",
 	"editor.accessibilitySupport": "off",
 	// "window.commandCenter": false,
 	// "workbench.layoutControl.enabled": false,
@@ -164,7 +164,7 @@
 
 	//Spell checker
 	"cSpell.language": "en,ru",
-	"cSpell.userWords": [],
+	"cSpell.userWords": ["@tailwind"],
 	"cSpell.enabled": true,
 	"cSpell.enableFiletypes": [
 		"blade",
